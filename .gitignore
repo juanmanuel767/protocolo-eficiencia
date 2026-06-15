@@ -1,0 +1,18 @@
+# Credenciales y sesiones — NUNCA subir
+.wwebjs_auth/
+.credentials.json
+*.key
+*.pem
+.env
+.env.*
+
+# Dependencias y artefactos
+node_modules/
+__pycache__/
+*.pyc
+dist/
+build/
+
+# Sistema
+.DS_Store
+graphify-out/
