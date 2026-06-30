@@ -1,5 +1,7 @@
 # Protocolo de Eficiencia para Claude Code
 
+🌍 **Español** · [English](README.en.md)
+
 Sistema de ahorro de tokens para Claude Code en proyectos grandes. Reduce el consumo delegando la exploración de código a subagentes baratos con contexto aislado, recortando la narración innecesaria y manteniendo delgado el contexto fijo que se carga en cada sesión.
 
 ## Piezas
